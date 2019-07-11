@@ -1,7 +1,10 @@
 # vue todo
 
-这个项目是为了学习webpack而创建的项目，课程源于：[Vue+Webpack打造todo应用](https://www.imooc.com/learn/935)
+该项目是`webpack 3`版本的资料，部分知识已经过时了，不再建议学习这个版本的知识了。
 
+----
+
+这个项目是为了学习webpack而创建的项目
 项目使用方式：
 
 ``` bash
